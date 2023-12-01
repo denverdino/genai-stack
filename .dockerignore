@@ -4,3 +4,6 @@
 !images/*
 !front-end/*
 front-end/node_modules/*
+!requirements.txt
+!debian-sources.list
+!pip.conf
